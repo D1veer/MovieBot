@@ -2,9 +2,10 @@
 
 A Python (Py-cord) Bot That's Use [omdbapi](https://www.omdbapi.com) To Shows Info About Any Movie/Series
 
+
+![GitHub License](https://img.shields.io/github/license/D1veer/MovieBot?style=for-the-badge&logo=github)
 ![GitHub Repo stars](https://img.shields.io/github/stars/D1veer/MovieBot?style=for-the-badge&logo=github)
 ![GitHub forks](https://img.shields.io/github/forks/D1veer/MovieBot?style=for-the-badge&logo=github)
-![GitHub License](https://img.shields.io/github/license/D1veer/MovieBot?style=for-the-badge&logo=github)
 
 ## Setup
 
